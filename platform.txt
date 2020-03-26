@@ -1,4 +1,4 @@
-name=ESP32 Arduino
+name=Binary Board
 version=
 
 
