@@ -11,10 +11,10 @@
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/ruelasa/DAQ-board/blob/master/DAQ-Board-32s-1.0.zip?raw=true",
+          "url": "https://github.com/ruelasa/DAQ-board/blob/master/DAQ-Board-32s-1.0.zip",
           "archiveFileName": "DAQ-Board-32s-1.0.zip",
-          "checksum": "SHA-256:e772e8947149d4ac6d6ba1cd427db85978b7d4d385cea4cb37bb9fbefdbe70e0",
-          "size": "2177",
+          "checksum": "SHA-256:f82d7e0b52c9dcb970b7f5ada127cd4422f7a35c92b558c67ba5c3b8c3a7efb4",
+          "size": “2177”,
           "boards": [
             {
               "name": "DAQ Board 32s"
