@@ -2,10 +2,10 @@
   "packages":
   [
     {
-      "name": "robohat",
+      "name": "DAQboard32",
       "maintainer": "Binary",
-      "websiteURL": "https://ro.com”,
-      "email" : “info@b.com”,
+      "websiteURL": "",
+      "email" : "",
       "platforms":
       [
         {
