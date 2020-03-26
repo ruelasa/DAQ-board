@@ -14,7 +14,7 @@
           "url": "https://github.com/ruelasa/DAQ-board/blob/master/DAQ-Board-32s-1.0.zip",
           "archiveFileName": "DAQ-Board-32s-1.0.zip",
           "checksum": "SHA-256:01d8f74f6270eaac22181616864a5eeb",
-          "size": "2381077",
+          "size": “2177”,
           "boards": [
             {
               "name": "DAQ Board 32s"
