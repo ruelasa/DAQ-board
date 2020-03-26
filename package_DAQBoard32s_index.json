@@ -7,14 +7,14 @@
       "platforms":
       [
         {
-          "name": "ESP32",
+          "name": "BiESP32",
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "ESP32",
           "url": "https://github.com/ruelasa/DAQ-board/blob/master/DAQ-Board-32s-1.0.zip?raw=true",
           "archiveFileName": "DAQ-Board-32s-1.0.zip",
-          "checksum": "SHA-256:d0e008301819f122e93104037ef699eb34b559b6ac678f2d14b0a0e7a4e37489",
-          "size": "7453",
+          "checksum": "SHA-256:26300469ba230a7de8570dda3a3ed392eaeb0875fc5b7dc88d92294116a50623",
+          "size": "7684",
           "boards": [
             {
               "name": "DAQ Board 32s"
