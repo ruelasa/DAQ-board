@@ -4,8 +4,6 @@
     {
       "name": "DAQboard32",
       "maintainer": "Binary",
-      "websiteURL": "",
-      "email" : "",
       "platforms":
       [
         {
