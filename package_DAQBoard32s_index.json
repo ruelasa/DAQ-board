@@ -2,7 +2,7 @@
   "packages":
   [
     {
-      "name": "DAQboard32",
+      "name": "esp32",
       "maintainer": "Binary",
       "platforms":
       [
@@ -13,8 +13,8 @@
           "category": "Contributed",
           "url": "https://github.com/ruelasa/DAQ-board/blob/master/DAQ-Board-32s-1.0.zip?raw=true",
           "archiveFileName": "DAQ-Board-32s-1.0.zip",
-          "checksum": "SHA-256:f82d7e0b52c9dcb970b7f5ada127cd4422f7a35c92b558c67ba5c3b8c3a7efb4",
-          "size": "2177",
+          "checksum": "e956bf3d63f3f124fa322a0a1978d2ddceebd45b7a4af3130154ad6ca1bc3376",
+          "size": "4058",
           "boards": [
             {
               "name": "DAQ Board 32s"
