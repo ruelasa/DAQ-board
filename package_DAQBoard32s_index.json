@@ -13,8 +13,8 @@
           "category": "ESP32",
           "url": "https://github.com/ruelasa/DAQ-board/blob/master/DAQ-Board-32s-1.0.zip?raw=true",
           "archiveFileName": "DAQ-Board-32s-1.0.zip",
-          "checksum": "SHA-256:26300469ba230a7de8570dda3a3ed392eaeb0875fc5b7dc88d92294116a50623",
-          "size": "7684",
+          "checksum": "SHA-256:5bb4409f700affb621c2c6367625c032a8746d6f33a24e662835263503ebd88a",
+          "size": "4518",
           "boards": [
             {
               "name": "DAQ Board 32s"
